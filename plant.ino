@@ -8,8 +8,8 @@
 char auth[] = "uF_4-NDCp4nN4YjuoSPCenDWHAMuon6-";
 
 
-char ssid[] = "potassium";
-char pass[] = "okgoogle";
+char ssid[] = "";
+char pass[] = "";
 float moisture;
 int sensor;
 
